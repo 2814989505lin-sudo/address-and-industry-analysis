@@ -1,0 +1,7 @@
+pandas
+openpyxl
+numpy
+SQLAlchemy
+PyMySQL
+requests
+urllib3

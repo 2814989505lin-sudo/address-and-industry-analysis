@@ -1,0 +1,8 @@
+pandas
+numpy
+openpyxl
+requests
+scipy
+scikit-learn
+igraph
+leidenalg

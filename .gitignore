@@ -1,0 +1,32 @@
+# Credentials and local settings
+.env
+.env.*
+!.env.example
+.git/
+.idea/
+.vscode/
+.claude/
+.venv/
+venv/
+# System and Python artifacts
+.DS_Store
+__MACOSX/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+# Private inputs, derived data, caches and old archives
+*.xlsx
+*.xls
+*.csv
+*.tsv
+*.pkl
+*.pickle
+*.log
+*.zip
+*.docx
+*.pdf
+runtime_state/
+runtime_logs/
+data/
+outputs/
+llm_cache.json

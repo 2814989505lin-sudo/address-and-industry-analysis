@@ -1,0 +1,8 @@
+pandas
+numpy
+openpyxl
+requests
+httpx
+SQLAlchemy
+PyMySQL
+anthropic
